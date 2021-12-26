@@ -15,3 +15,8 @@ Use the corresponding .md files for the text of your pages.
   - Change the font-size of the h1 on all pages to: 60px
   - Change the color of the h1 and all h2 on the mars page to: #d33d1f
   - Change the colors of the h1 and all h2 on the earth page to: #2a8442
+  
+* All text has been taken from Wikipedia
+* Images:
+  - Earth: Photo by NASA on Unsplash
+  - Mars: Photo by Planet Volumes on Unsplash
